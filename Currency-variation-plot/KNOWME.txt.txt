@@ -1,0 +1,4 @@
+Currency-variation-plot
+This will extract the curreny values for USD, EUR, JPY, BRL, CAD, CHF, MXN, ILS and GBP in base INR.
+It uses the forex api for its data.
+A plot between the value in INR and Date(last 7 days for which data is available) is obtained.
